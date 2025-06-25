@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2390EE90&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+I'm+Mostafa+Arafat+%F0%9F%91%8B;Front-End+Developer;React.js+%26+Next.js+Specialist;UI/UX+Focused+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2390EE90&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+I'm+Mostafa+Arafat+%F0%9F%91%8B;Front-End+Developer;React.js+%26+Next.js+Specialist;)
 
 🌍 From: Cairo, Egypt  
 💼 **Current Role:** Front-End Developer  
