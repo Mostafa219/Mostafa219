@@ -1,16 +1,13 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2390EE90&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+I'm+Mostafa+Arafat+%F0%9F%91%8B;Front-End+Developer;React.js+%26+Next.js+Specialist;)
 
 🌍 From: Cairo, Egypt  
-💼 **Current Role:** Front-End Developer  
+💼 **Current Role:** Front-End Trainee at ITI  
 🎓 **Education:** Tanta University – Faculty of Engineering (2018 – 2023)  
 
 🎓 **Training:**  
 - Front-End & Cross-Platform Development @ ITI (Information Technology Institute)
-
 ---
-
 ## 🚀 Technologies I Work With
-
 
 | 🎨 **Front-End Development** | ⚙️ **Tools & Workflow** |
 |-----------------------------|--------------------------|
