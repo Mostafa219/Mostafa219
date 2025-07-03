@@ -85,6 +85,21 @@ I'm driven by the art of crafting beautiful, intuitive, and high-performance web
 - ✉️ Email: mostafaarafat737@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mostafa-ismail-arafat)  
 - 💻 [GitHub](https://github.com/Mostafa219)
+---
 
+### 🐍 My GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mostafa219/Mostafa219/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+<sub><p align="center">
+  <i><b>Note:</b> The snake animation updates daily thanks to a
+  <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">
+  GitHub Action</a>. You'll need to set this up in your <code>Mostafa219/Mostafa219</code> repo for it to work.
+  </i>
+</p></sub>
+
+---
 Thanks for visiting my profile!  
 Feel free to explore my repositories or reach out for collaboration 🤝
