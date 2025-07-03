@@ -85,6 +85,15 @@ I'm driven by the art of crafting beautiful, intuitive, and high-performance web
 - ✉️ Email: mostafaarafat737@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mostafa-ismail-arafat)  
 - 💻 [GitHub](https://github.com/Mostafa219)
+
+<h3 align="center">📊 My GitHub Stats & Activity:</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mostafa219&show_icons=true&locale=en&theme=dracula&count_private=true&hide_border=true&rank_icon=github" alt="Mostafa Arafat's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mostafa219&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Langs" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostafa219&theme=dracula&hide_border=true&line=BD93F9&point=FF79C6&area=true&area_color=6272A4" alt="Activity Graph" />
+</p>
 ---
 
 <div align="center">
