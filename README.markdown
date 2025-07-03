@@ -101,9 +101,13 @@ I'm driven by the art of crafting beautiful, intuitive, and high-performance web
 
 
 ---
-## 💬 Let's Connect
 
 <div align="center">
+
+### 👋 Thanks for visiting my profile!  
+Feel free to explore my repositories or reach out for collaboration 🤝
+
+<br/>
 
 <a href="mailto:mostafaarafat737@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
@@ -118,7 +122,3 @@ I'm driven by the art of crafting beautiful, intuitive, and high-performance web
 </a>
 
 </div>
-
----
-Thanks for visiting my profile!  
-Feel free to explore my repositories or reach out for collaboration 🤝
