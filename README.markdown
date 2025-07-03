@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2390EE90&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+I'm+Mostafa+Arafat+%F0%9F%91%8B;Front-End+Developer;React.js+%26+Next.js+Specialist;)
+<h1 align="center">Hi there, I'm Mostafa Arafat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" style="margin-bottom: -5px;"></h1>
 
 🌍 From: Cairo, Egypt  
 💼 **Current Role:** Front-End Trainee at ITI  
