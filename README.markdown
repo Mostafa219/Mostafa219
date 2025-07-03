@@ -70,21 +70,8 @@ I'm driven by the art of crafting beautiful, intuitive, and high-performance web
 
 - Fully responsive using HTML, CSS, and Bootstrap  
 - 🔗 [Live Demo](https://icytales.netlify.app/)
-
+- 
 ---
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostafa219&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa219&layout=compact&theme=dark)
-
----
-
-## 💬 Let's Connect
-
-- ✉️ Email: mostafaarafat737@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mostafa-ismail-arafat)  
-- 💻 [GitHub](https://github.com/Mostafa219)
 
 <h3 align="center">📊 My GitHub Stats & Activity:</h3>
 <p align="center">
@@ -113,6 +100,12 @@ I'm driven by the art of crafting beautiful, intuitive, and high-performance web
 </div>
 
 
+---
+## 💬 Let's Connect
+
+- ✉️ Email: mostafaarafat737@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mostafa-ismail-arafat)  
+- 💻 [GitHub](https://github.com/Mostafa219)
 ---
 Thanks for visiting my profile!  
 Feel free to explore my repositories or reach out for collaboration 🤝
