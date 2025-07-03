@@ -22,6 +22,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
+          color_snake: "#00b894"
+          color_dots: "#f0f0f0,#a0d3ff,#70b7f1,#368cd6,#005fa3"
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
