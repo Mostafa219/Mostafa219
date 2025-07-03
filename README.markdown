@@ -6,22 +6,32 @@
   </a>
 </p>
 
-<p align="center">
-  <em>A passionate Front-End Web Developer from Egypt 🇪🇬, specializing in creating engaging and responsive user experiences with React and Next.js.</em>
-</p>
-🌍 From: Cairo, Egypt  
-💼 **Current Role:** Front-End Trainee at ITI  
-🎓 **Education:** Tanta University – Faculty of Engineering (2018 – 2023)  
 
-🎓 **Training:**  
-- Front-End & Cross-Platform Development @ ITI (Information Technology Institute)
+I'm driven by the art of crafting beautiful, intuitive, and high-performance web applications. My core focus is on **Front-End Development using React, Next.js, and the modern JavaScript ecosystem**. I enjoy translating complex requirements into clean, efficient, and user-friendly interfaces.
+
+- 🔭 I’m currently working on building dynamic and scalable web applications using **Next.js** and **React**.
+- 🌱 I’m continuously learning about **TypeScript**, **advanced React patterns**, **performance optimization**, and **Tailwind CSS**.
+- 👯 I’m open to collaborating on **innovative open-source front-end projects** or **challenging UI/UX tasks**.
+- 💬 Ask me about: **React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Responsive Design, and Front-End Performance**.
+- 📫 How to reach me: Connect with me on LinkedIn! (Link below)
+
 ---
-## 🚀 Technologies I Work With
 
-| 🎨 **Front-End Development** | ⚙️ **Tools & Workflow** |
-|-----------------------------|--------------------------|
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)<br>![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)<br>![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)<br>![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=for-the-badge)<br>![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)<br>![Material UI](https://img.shields.io/badge/-Material--UI-007FFF?logo=mui&logoColor=white&style=for-the-badge)<br>![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)<br>![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)<br>![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)<br>![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)<br>![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)<br>![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)<br>![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge) |
-
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="60" height="60"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="60" height="60"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="60" height="60"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a>
+</p>
 
 ---
 
