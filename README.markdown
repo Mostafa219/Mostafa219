@@ -103,9 +103,22 @@ I'm driven by the art of crafting beautiful, intuitive, and high-performance web
 ---
 ## 💬 Let's Connect
 
-- ✉️ Email: mostafaarafat737@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mostafa-ismail-arafat)  
-- 💻 [GitHub](https://github.com/Mostafa219)
+<div align="center">
+
+<a href="mailto:mostafaarafat737@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/mostafa-ismail-arafat" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+&nbsp;
+<a href="https://github.com/Mostafa219" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+</a>
+
+</div>
+
 ---
 Thanks for visiting my profile!  
 Feel free to explore my repositories or reach out for collaboration 🤝
