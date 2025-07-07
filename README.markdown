@@ -17,12 +17,8 @@ I'm passionate about building elegant, intuitive, and high-performance web appli
 ---
 
 <div align="center">
-
-### 👋 Thanks for visiting my profile!  
 Feel free to explore my repositories or reach out for collaboration 🤝
-
 <br/>
-
 <a href="mailto:mostafaarafat737@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
