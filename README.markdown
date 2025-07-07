@@ -7,14 +7,35 @@
 </p>
 
 
-I'm driven by the art of crafting beautiful, intuitive, and high-performance web applications. My core focus is on **Front-End Development using React, Next.js, and the modern JavaScript ecosystem**. I enjoy translating complex requirements into clean, efficient, and user-friendly interfaces.
+I'm passionate about building elegant, intuitive, and high-performance web applications. My expertise lies in Front-End Development, with a strong focus on React, Next.js, and the modern JavaScript ecosystem. I take pride in transforming complex ideas into seamless, user-friendly interfaces.
 
-- 🔭 I’m currently working on building dynamic and scalable web applications using **Next.js** and **React**.
-- 🌱 I’m continuously learning about **TypeScript**, **advanced React patterns**, **performance optimization**, and **Tailwind CSS**.
-- 👯 I’m open to collaborating on **innovative open-source front-end projects** or **challenging UI/UX tasks**.
-- 💬 Ask me about: **React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Responsive Design, and Front-End Performance**.
-- 📫 How to reach me: Connect with me on LinkedIn! (Link below)
+- 🔭 Currently developing dynamic, scalable applications using Next.js and React.
+- 🌱 Actively expanding my skills in TypeScript, advanced React patterns, performance optimization, and Tailwind CSS.
+- 👯 Open to collaborating on impactful open-source projects and front-end challenges with a focus on UI/UX.
+- 💬 Let’s talk about: React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Responsive Design, and Web Performance
+- 📫 Feel free to connect with me on LinkedIn! (Link below)
+---
 
+<div align="center">
+
+### 👋 Thanks for visiting my profile!  
+Feel free to explore my repositories or reach out for collaboration 🤝
+
+<br/>
+
+<a href="mailto:mostafaarafat737@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/mostafa-ismail-arafat" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+&nbsp;
+<a href="https://github.com/Mostafa219" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+</a>
+
+</div>
 ---
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
